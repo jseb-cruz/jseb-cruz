@@ -1,4 +1,4 @@
-# Hola, soy Juan Sebastián Cruz 👋
+# Hola, soy Sebastián Cruz 
 
 Estudiante de Ingeniería de Sistemas en la Universidad Santo Tomás, Tunja 
 
