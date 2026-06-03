@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hola, soy Juan Sebastián Cruz 👋
 
-<!--
-**jseb-cruz/jseb-cruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Ingeniería de Sistemas en la Universidad Santo Tomás, Tunja 🇨🇴  
+Apasionado por el desarrollo backend y frontend, siempre aprendiendo algo nuevo.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Stack tecnológico
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 🚀 Proyectos destacados
+
+### 📦 Módulo de gestión de inventario y mantenimiento de equipos
+Sistema web full stack para gestión de inventario y registro de mantenimientos de equipos informáticos.  
+`Angular` `Node.js` `TypeScript`  
+🔗 [Frontend](https://github.com/jseb-cruz/Modulo-de-gestion-de-inventario-y-registro-de-mantenimientos-de-equipos-informaticos-frontend) · [Backend](https://github.com/jseb-cruz/Modulo-de-gestion-de-inventario-y-registro-de-mantenimientos-de-equipos-informaticos-backend)
+
+### 💪 FITGO
+Aplicación backend desarrollada con Spring Boot.  
+`Spring Boot` `Java`  
+🔗 [Repositorio](https://github.com/jseb-cruz/Springboot)
+
+### 🌶️ Chile Comparte *(en desarrollo)*
+Aplicación backend en construcción con Spring Boot.  
+`Spring Boot` `Java`  
+🔗 [Repositorio](https://github.com/jseb-cruz/Chile-comparte)
+
+---
+
+## 📊 Estadísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jseb-cruz&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jseb-cruz&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+---
+
+## 📬 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jseb-cruz)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:09sebastiancruz06@gmail.com)
+
+---
+
+*Buscando mis primeras prácticas profesionales en desarrollo de software* 🎯
