@@ -18,20 +18,6 @@ Apasionado por el desarrollo backend y frontend, siempre aprendiendo algo nuevo.
 
 ## 🚀 Proyectos destacados
 
-### 📦 Módulo de gestión de inventario y mantenimiento de equipos
-Sistema web full stack para gestión de inventario y registro de mantenimientos de equipos informáticos.  
-`Angular` `Node.js` `TypeScript`  
-🔗 [Frontend](https://github.com/jseb-cruz/Modulo-de-gestion-de-inventario-y-registro-de-mantenimientos-de-equipos-informaticos-frontend) · [Backend](https://github.com/jseb-cruz/Modulo-de-gestion-de-inventario-y-registro-de-mantenimientos-de-equipos-informaticos-backend)
-
-### 💪 FITGO
-Aplicación backend desarrollada con Spring Boot.  
-`Spring Boot` `Java`  
-🔗 [Repositorio](https://github.com/jseb-cruz/Springboot)
-
-### 🌶️ Chile Comparte *(en desarrollo)*
-Aplicación backend en construcción con Spring Boot.  
-`Spring Boot` `Java`  
-🔗 [Repositorio](https://github.com/jseb-cruz/Chile-comparte)
 
 ---
 
