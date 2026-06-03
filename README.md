@@ -1,7 +1,7 @@
 # Hola, soy Juan Sebastián Cruz 👋
 
-Estudiante de Ingeniería de Sistemas en la Universidad Santo Tomás, Tunja 🇨🇴  
-Apasionado por el desarrollo backend y frontend, siempre aprendiendo algo nuevo.
+Estudiante de Ingeniería de Sistemas en la Universidad Santo Tomás, Tunja 
+Desarrollo fullstack, siempre aprendiendo algo nuevo.
 
 ---
 
