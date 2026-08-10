@@ -1,8 +1,7 @@
-# Hola, soy Sebastián Cruz 
 
 Estudiante de Ingeniería de Sistemas en la Universidad Santo Tomás, Tunja 
 
-Desarrollo fullstack, siempre aprendiendo algo nuevo.
+
 
 ---
 
@@ -29,4 +28,4 @@ Desarrollo fullstack, siempre aprendiendo algo nuevo.
 
 ---
 
-*Buscando mis primeras prácticas profesionales en desarrollo de software* 🎯
+
